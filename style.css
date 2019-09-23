@@ -1,0 +1,14 @@
+.one {
+    width: 50%;
+    background-color: brown;
+}
+
+.main div {
+    display: inline-block;
+}
+
+input,
+button {
+    display: block;
+    margin: auto;
+}
